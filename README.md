@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patrick Iradukunda</h1>
+<h1 align="center">Hi 👋, I'm Patrick IRADUKUNDA</h1>
 <h3 align="center">A passionate Software Engineering student and Web Developer from Kigali, Rwanda</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
